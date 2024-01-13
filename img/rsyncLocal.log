@@ -1,0 +1,623 @@
+sending incremental file list
+created directory /tmp/backup
+./
+.Xauthority
+            366 100%    0,00kB/s    0:00:00              366 100%    0,00kB/s    0:00:00 (xfr#1, to-chk=416/418)
+.bash_history
+         12.169 100%   11,61MB/s    0:00:00           12.169 100%   11,61MB/s    0:00:00 (xfr#2, to-chk=415/418)
+.bash_logout
+            220 100%  214,84kB/s    0:00:00              220 100%  214,84kB/s    0:00:00 (xfr#3, to-chk=414/418)
+.bashrc
+          3.771 100%    3,60MB/s    0:00:00            3.771 100%    3,60MB/s    0:00:00 (xfr#4, to-chk=413/418)
+.lesshst
+             20 100%   19,53kB/s    0:00:00               20 100%   19,53kB/s    0:00:00 (xfr#5, to-chk=412/418)
+.profile
+            807 100%  788,09kB/s    0:00:00              807 100%  788,09kB/s    0:00:00 (xfr#6, to-chk=411/418)
+.selected_editor
+             66 100%   64,45kB/s    0:00:00               66 100%   64,45kB/s    0:00:00 (xfr#7, to-chk=410/418)
+.sudo_as_admin_successful
+              0 100%    0,00kB/s    0:00:00 (xfr#8, to-chk=409/418)
+.cache/
+.cache/event-sound-cache.tdb.7c844639bf9b4a40834a1311cc7abd7c.x86_64-pc-linux-gnu
+         12.288 100%    1,17MB/s    0:00:00           12.288 100%    1,17MB/s    0:00:00 (xfr#9, to-chk=391/418)
+.cache/motd.legal-displayed
+              0 100%    0,00kB/s    0:00:00 (xfr#10, to-chk=390/418)
+.cache/evolution/
+.cache/evolution/addressbook/
+.cache/evolution/addressbook/trash/
+.cache/evolution/calendar/
+.cache/evolution/calendar/trash/
+.cache/evolution/mail/
+.cache/evolution/mail/trash/
+.cache/evolution/memos/
+.cache/evolution/memos/trash/
+.cache/evolution/sources/
+.cache/evolution/sources/trash/
+.cache/evolution/tasks/
+.cache/evolution/tasks/trash/
+.cache/fontconfig/
+.cache/fontconfig/636e39dd-4582-4fa9-ae56-e06fa08675a2-le64.cache-7
+          2.456 100%  239,84kB/s    0:00:00            2.456 100%  239,84kB/s    0:00:00 (xfr#11, to-chk=367/418)
+.cache/fontconfig/CACHEDIR.TAG
+            200 100%   19,53kB/s    0:00:00              200 100%   19,53kB/s    0:00:00 (xfr#12, to-chk=366/418)
+.cache/fontconfig/f51ce705-421a-4fbb-b910-a07fa59e92e2-le64.cache-7
+          8.904 100%  869,53kB/s    0:00:00            8.904 100%  869,53kB/s    0:00:00 (xfr#13, to-chk=365/418)
+.cache/gstreamer-1.0/
+.cache/gstreamer-1.0/registry.x86_64.bin
+         32.768   8%    2,84MB/s    0:00:00          394.226 100%   31,33MB/s    0:00:00 (xfr#14, to-chk=364/418)
+.cache/ibus-table/
+.cache/ibus/
+.cache/ibus/bus/
+.cache/ibus/bus/registry
+         32.768  17%    2,60MB/s    0:00:00          188.591 100%   14,99MB/s    0:00:00 (xfr#15, to-chk=362/418)
+.cache/mc/
+.cache/mc/Tree
+             35 100%    2,85kB/s    0:00:00               35 100%    2,85kB/s    0:00:00 (xfr#16, to-chk=361/418)
+.cache/mesa_shader_cache/
+.cache/mesa_shader_cache/index
+         32.768   2%    2,60MB/s    0:00:00        1.310.728 100%   89,29MB/s    0:00:00 (xfr#17, to-chk=360/418)
+.cache/mesa_shader_cache/00/
+.cache/mesa_shader_cache/00/543d270b6705572af8f45aac2cbe509ae35faa
+          2.113 100%  147,39kB/s    0:00:00            2.113 100%  147,39kB/s    0:00:00 (xfr#18, to-chk=278/418)
+.cache/mesa_shader_cache/03/
+.cache/mesa_shader_cache/03/b14ad8edf02cd595e32a7a0996c5305d0a41a0
+            799 100%   55,73kB/s    0:00:00              799 100%   55,73kB/s    0:00:00 (xfr#19, to-chk=277/418)
+.cache/mesa_shader_cache/04/
+.cache/mesa_shader_cache/04/3028dd67049771341cd1f539dd4c6b8de693d2
+          2.576 100%  179,69kB/s    0:00:00            2.576 100%  167,71kB/s    0:00:00 (xfr#20, to-chk=276/418)
+.cache/mesa_shader_cache/06/
+.cache/mesa_shader_cache/06/5d360e80dca00f5891d2734c2ea8ad4dc956c1
+          2.586 100%  168,36kB/s    0:00:00            2.586 100%  168,36kB/s    0:00:00 (xfr#21, to-chk=275/418)
+.cache/mesa_shader_cache/07/
+.cache/mesa_shader_cache/07/b1e35266a03da3af2b77a30f7d4878162ee9a6
+          2.530 100%  164,71kB/s    0:00:00            2.530 100%  164,71kB/s    0:00:00 (xfr#22, to-chk=274/418)
+.cache/mesa_shader_cache/08/
+.cache/mesa_shader_cache/08/2bf56075d4f3ab2ce5a6aa82f9849e30e1fc00
+          1.603 100%  104,36kB/s    0:00:00            1.603 100%  104,36kB/s    0:00:00 (xfr#23, to-chk=273/418)
+.cache/mesa_shader_cache/08/d907d2ae717ed39cc770ff632e85ac19699a1d
+          2.530 100%  164,71kB/s    0:00:00            2.530 100%  164,71kB/s    0:00:00 (xfr#24, to-chk=272/418)
+.cache/mesa_shader_cache/0b/
+.cache/mesa_shader_cache/0b/45f7187e11972215359214dc531bdbce4a1108
+          2.634 100%  171,48kB/s    0:00:00            2.634 100%  171,48kB/s    0:00:00 (xfr#25, to-chk=271/418)
+.cache/mesa_shader_cache/10/
+.cache/mesa_shader_cache/10/513b59e1ec4302b437cd18dfe357595affe590
+          2.460 100%  160,16kB/s    0:00:00            2.460 100%  160,16kB/s    0:00:00 (xfr#26, to-chk=270/418)
+.cache/mesa_shader_cache/15/
+.cache/mesa_shader_cache/15/b184a98037056ceaa6d08d916192566ef2b552
+          1.791 100%  116,60kB/s    0:00:00            1.791 100%  116,60kB/s    0:00:00 (xfr#27, to-chk=269/418)
+.cache/mesa_shader_cache/1b/
+.cache/mesa_shader_cache/1b/ed78d2106ff8a56bfc5d47351b0777c4fe41a4
+          2.444 100%  159,11kB/s    0:00:00            2.444 100%  159,11kB/s    0:00:00 (xfr#28, to-chk=268/418)
+.cache/mesa_shader_cache/1c/
+.cache/mesa_shader_cache/1c/b6de5c0c286792addcfaefcff684e930bf5851
+          2.683 100%  174,67kB/s    0:00:00            2.683 100%  174,67kB/s    0:00:00 (xfr#29, to-chk=267/418)
+.cache/mesa_shader_cache/1f/
+.cache/mesa_shader_cache/1f/041af95247c0a6da7095b1ce094a1468bf31e1
+          1.605 100%  104,49kB/s    0:00:00            1.605 100%  104,49kB/s    0:00:00 (xfr#30, to-chk=266/418)
+.cache/mesa_shader_cache/1f/9a3b59e7d5c9ee651d22af3539cdd3b7f3fbcb
+          2.538 100%  165,23kB/s    0:00:00            2.538 100%  165,23kB/s    0:00:00 (xfr#31, to-chk=265/418)
+.cache/mesa_shader_cache/21/
+.cache/mesa_shader_cache/21/38425a89b69772003d2465c25af21a56b46b62
+          2.739 100%  178,32kB/s    0:00:00            2.739 100%  178,32kB/s    0:00:00 (xfr#32, to-chk=264/418)
+.cache/mesa_shader_cache/22/
+.cache/mesa_shader_cache/22/1613a549b8d7e5c1a17105b289b853fbfb4625
+          2.537 100%  165,17kB/s    0:00:00            2.537 100%  165,17kB/s    0:00:00 (xfr#33, to-chk=263/418)
+.cache/mesa_shader_cache/24/
+.cache/mesa_shader_cache/24/885be5611a65c3d215cf7d65d4b1a371f8425c
+          3.263 100%  212,43kB/s    0:00:00            3.263 100%  212,43kB/s    0:00:00 (xfr#34, to-chk=262/418)
+.cache/mesa_shader_cache/28/
+.cache/mesa_shader_cache/28/47bf8b0d150efd1987d20c6500725a7f0f2f25
+          1.647 100%  107,23kB/s    0:00:00            1.647 100%  107,23kB/s    0:00:00 (xfr#35, to-chk=261/418)
+.cache/mesa_shader_cache/29/
+.cache/mesa_shader_cache/29/8a064ca840e08cedd44f6019a513959b7e848e
+          1.904 100%  123,96kB/s    0:00:00            1.904 100%  123,96kB/s    0:00:00 (xfr#36, to-chk=260/418)
+.cache/mesa_shader_cache/2a/
+.cache/mesa_shader_cache/2a/60e285168c6d9a4ec65fd4d7d1e469633113bf
+          1.512 100%   98,44kB/s    0:00:00            1.512 100%   98,44kB/s    0:00:00 (xfr#37, to-chk=259/418)
+.cache/mesa_shader_cache/30/
+.cache/mesa_shader_cache/30/5cfc7cf0b9238b649a2e72025656a5329afe9b
+          1.142 100%   74,35kB/s    0:00:00            1.142 100%   74,35kB/s    0:00:00 (xfr#38, to-chk=258/418)
+.cache/mesa_shader_cache/34/
+.cache/mesa_shader_cache/34/614fb96a619156e9a6571bf0bf26989ca2f11e
+          2.617 100%  170,38kB/s    0:00:00            2.617 100%  170,38kB/s    0:00:00 (xfr#39, to-chk=257/418)
+.cache/mesa_shader_cache/36/
+.cache/mesa_shader_cache/36/8af1241cf5aeac707bbf95ab450d1116b7e30e
+          2.112 100%  137,50kB/s    0:00:00            2.112 100%  137,50kB/s    0:00:00 (xfr#40, to-chk=256/418)
+.cache/mesa_shader_cache/37/
+.cache/mesa_shader_cache/37/17478fe411c5d5581f7a26298c50d484eb6547
+          3.477 100%  226,37kB/s    0:00:00            3.477 100%  226,37kB/s    0:00:00 (xfr#41, to-chk=255/418)
+.cache/mesa_shader_cache/37/b2847fedb5c55a40c89f160d950d1ef69203cd
+            800 100%   52,08kB/s    0:00:00              800 100%   52,08kB/s    0:00:00 (xfr#42, to-chk=254/418)
+.cache/mesa_shader_cache/38/
+.cache/mesa_shader_cache/38/82f5dba2d1a926880150bbb0f59b3f1ee75b51
+          2.671 100%  173,89kB/s    0:00:00            2.671 100%  173,89kB/s    0:00:00 (xfr#43, to-chk=253/418)
+.cache/mesa_shader_cache/3b/
+.cache/mesa_shader_cache/3b/09e7860135da30e54b60e592214ae6674d5164
+          2.740 100%  178,39kB/s    0:00:00            2.740 100%  178,39kB/s    0:00:00 (xfr#44, to-chk=252/418)
+.cache/mesa_shader_cache/3e/
+.cache/mesa_shader_cache/3e/ac3f2497f3b696cd0243f80a8a907980498003
+          2.112 100%  137,50kB/s    0:00:00            2.112 100%  137,50kB/s    0:00:00 (xfr#45, to-chk=251/418)
+.cache/mesa_shader_cache/42/
+.cache/mesa_shader_cache/42/b3b339931c0e1c8a4c92d9eff09163387ee87b
+          2.529 100%  164,65kB/s    0:00:00            2.529 100%  164,65kB/s    0:00:00 (xfr#46, to-chk=250/418)
+.cache/mesa_shader_cache/46/
+.cache/mesa_shader_cache/46/9ffab419e25a73033522344255c35dc1c1f6d8
+          2.531 100%  164,78kB/s    0:00:00            2.531 100%  164,78kB/s    0:00:00 (xfr#47, to-chk=249/418)
+.cache/mesa_shader_cache/47/
+.cache/mesa_shader_cache/47/90e82e46c30886fdd71aca42c1ddc701c9688e
+          2.832 100%  184,38kB/s    0:00:00            2.832 100%  184,38kB/s    0:00:00 (xfr#48, to-chk=248/418)
+.cache/mesa_shader_cache/49/
+.cache/mesa_shader_cache/49/9296841d33218910dc0b150eb5b0565126e1f3
+          3.089 100%  201,11kB/s    0:00:00            3.089 100%  201,11kB/s    0:00:00 (xfr#49, to-chk=247/418)
+.cache/mesa_shader_cache/4a/
+.cache/mesa_shader_cache/4a/05f4edfc5f57d7d89af023c30ca909ba8acaa5
+          2.683 100%  174,67kB/s    0:00:00            2.683 100%  174,67kB/s    0:00:00 (xfr#50, to-chk=246/418)
+.cache/mesa_shader_cache/4b/
+.cache/mesa_shader_cache/4b/17cf61ba0091248f30d100427faaaae3bdb909
+          2.791 100%  181,71kB/s    0:00:00            2.791 100%  181,71kB/s    0:00:00 (xfr#51, to-chk=245/418)
+.cache/mesa_shader_cache/4b/1dbc4d68ed26730341a1b21827d85da08a7764
+          2.526 100%  164,45kB/s    0:00:00            2.526 100%  164,45kB/s    0:00:00 (xfr#52, to-chk=244/418)
+.cache/mesa_shader_cache/4e/
+.cache/mesa_shader_cache/4e/1ff5d0c5d68cc1784323b0d283f348ac963304
+          2.571 100%  156,92kB/s    0:00:00            2.571 100%  156,92kB/s    0:00:00 (xfr#53, to-chk=243/418)
+.cache/mesa_shader_cache/4e/e9b71460ededde9fe5bd0c376708335acae0f6
+          2.585 100%  157,78kB/s    0:00:00            2.585 100%  157,78kB/s    0:00:00 (xfr#54, to-chk=242/418)
+.cache/mesa_shader_cache/50/
+.cache/mesa_shader_cache/50/4ac27a0096cdf8ef138ba310dbd173f811a26a
+          3.061 100%  186,83kB/s    0:00:00            3.061 100%  186,83kB/s    0:00:00 (xfr#55, to-chk=241/418)
+.cache/mesa_shader_cache/50/6792dc4e3efc7d49935bc1eea19ce18ffc1bb1
+          1.629 100%   99,43kB/s    0:00:00            1.629 100%   99,43kB/s    0:00:00 (xfr#56, to-chk=240/418)
+.cache/mesa_shader_cache/50/e726787b77b4a1c4a0b172d9dafdaee6254a5e
+          1.706 100%  104,13kB/s    0:00:00            1.706 100%  104,13kB/s    0:00:00 (xfr#57, to-chk=239/418)
+.cache/mesa_shader_cache/51/
+.cache/mesa_shader_cache/51/3bcde56f6cfdced8512e452944c763e0596b7d
+          2.135 100%  130,31kB/s    0:00:00            2.135 100%  130,31kB/s    0:00:00 (xfr#58, to-chk=238/418)
+.cache/mesa_shader_cache/51/595a72daa7aa28f5193ed3f8a7f9cfcd330ab0
+          2.961 100%  180,73kB/s    0:00:00            2.961 100%  180,73kB/s    0:00:00 (xfr#59, to-chk=237/418)
+.cache/mesa_shader_cache/59/
+.cache/mesa_shader_cache/59/59195850c933fd55a808783ec3a4780af1974b
+          2.645 100%  161,44kB/s    0:00:00            2.645 100%  161,44kB/s    0:00:00 (xfr#60, to-chk=236/418)
+.cache/mesa_shader_cache/59/81d31eb5ee172a3c8392e6cbd161a8cdbbec5b
+          2.586 100%  157,84kB/s    0:00:00            2.586 100%  157,84kB/s    0:00:00 (xfr#61, to-chk=235/418)
+.cache/mesa_shader_cache/5e/
+.cache/mesa_shader_cache/5e/058f2d0ecef227e8d57af294f6316e0800a50a
+          3.715 100%  226,75kB/s    0:00:00            3.715 100%  226,75kB/s    0:00:00 (xfr#62, to-chk=234/418)
+.cache/mesa_shader_cache/63/
+.cache/mesa_shader_cache/63/d2daaa264d92ce8719d9754c70a77630e9015a
+          1.700 100%  103,76kB/s    0:00:00            1.700 100%  103,76kB/s    0:00:00 (xfr#63, to-chk=233/418)
+.cache/mesa_shader_cache/64/
+.cache/mesa_shader_cache/64/4944308c292fdbcd97ce378ee061a30041e3b9
+          2.240 100%  136,72kB/s    0:00:00            2.240 100%  136,72kB/s    0:00:00 (xfr#64, to-chk=232/418)
+.cache/mesa_shader_cache/64/cef66750653f8f3932250339a4ec32ac20a239
+          1.631 100%   99,55kB/s    0:00:00            1.631 100%   99,55kB/s    0:00:00 (xfr#65, to-chk=231/418)
+.cache/mesa_shader_cache/66/
+.cache/mesa_shader_cache/66/242ee97a088e643c7054ac20ba9171cd6e4afb
+          2.225 100%  135,80kB/s    0:00:00            2.225 100%  135,80kB/s    0:00:00 (xfr#66, to-chk=230/418)
+.cache/mesa_shader_cache/67/
+.cache/mesa_shader_cache/67/ecef9e5a1f4611fa32c496fe1aed2f36e4067a
+          3.028 100%  184,81kB/s    0:00:00            3.028 100%  184,81kB/s    0:00:00 (xfr#67, to-chk=229/418)
+.cache/mesa_shader_cache/6c/
+.cache/mesa_shader_cache/6c/e338c852c854091ac0744cfe39e6b1eb7e2e6b
+          2.219 100%  135,44kB/s    0:00:00            2.219 100%  135,44kB/s    0:00:00 (xfr#68, to-chk=228/418)
+.cache/mesa_shader_cache/70/
+.cache/mesa_shader_cache/70/ced4b2c7f927e18f87b5dff4704688e253ad8b
+          2.477 100%  151,18kB/s    0:00:00            2.477 100%  151,18kB/s    0:00:00 (xfr#69, to-chk=227/418)
+.cache/mesa_shader_cache/77/
+.cache/mesa_shader_cache/77/e8e7b5aa870282abed4cea32d6bd3b303ccb0b
+          2.534 100%  154,66kB/s    0:00:00            2.534 100%  154,66kB/s    0:00:00 (xfr#70, to-chk=226/418)
+.cache/mesa_shader_cache/78/
+.cache/mesa_shader_cache/78/ee70bec23cd2344b00bf7c044a7d1f00a403e8
+          3.263 100%  199,16kB/s    0:00:00            3.263 100%  199,16kB/s    0:00:00 (xfr#71, to-chk=225/418)
+.cache/mesa_shader_cache/79/
+.cache/mesa_shader_cache/79/909ddf207de1fddd7cb353f31875e80d48293e
+          2.898 100%  176,88kB/s    0:00:00            2.898 100%  176,88kB/s    0:00:00 (xfr#72, to-chk=224/418)
+.cache/mesa_shader_cache/84/
+.cache/mesa_shader_cache/84/73478ff2a5adde701dec808e75ef577d86358c
+          2.897 100%  176,82kB/s    0:00:00            2.897 100%  176,82kB/s    0:00:00 (xfr#73, to-chk=223/418)
+.cache/mesa_shader_cache/86/
+.cache/mesa_shader_cache/86/3489a0f0948980a367538a7dfb255fcbefdf66
+          2.113 100%  128,97kB/s    0:00:00            2.113 100%  128,97kB/s    0:00:00 (xfr#74, to-chk=222/418)
+.cache/mesa_shader_cache/87/
+.cache/mesa_shader_cache/87/e2396929c30aa8a9f19c51c8b29b10eeafe650
+          2.088 100%  127,44kB/s    0:00:00            2.088 100%  127,44kB/s    0:00:00 (xfr#75, to-chk=221/418)
+.cache/mesa_shader_cache/90/
+.cache/mesa_shader_cache/90/d739cf659ed43576c3c50cf666e190972d09db
+          2.947 100%  179,87kB/s    0:00:00            2.947 100%  179,87kB/s    0:00:00 (xfr#76, to-chk=220/418)
+.cache/mesa_shader_cache/91/
+.cache/mesa_shader_cache/91/bbc67a7cc973083326a345bc9e486277e2ef9d
+          2.607 100%  159,12kB/s    0:00:00            2.607 100%  159,12kB/s    0:00:00 (xfr#77, to-chk=219/418)
+.cache/mesa_shader_cache/92/
+.cache/mesa_shader_cache/92/d63e14987d5a609be6b04c7bbc1b40f8dc2b9b
+          2.510 100%  153,20kB/s    0:00:00            2.510 100%  153,20kB/s    0:00:00 (xfr#78, to-chk=218/418)
+.cache/mesa_shader_cache/96/
+.cache/mesa_shader_cache/96/5effd6035988b90389951c6812a6a8d9282a3b
+          2.634 100%  160,77kB/s    0:00:00            2.634 100%  160,77kB/s    0:00:00 (xfr#79, to-chk=217/418)
+.cache/mesa_shader_cache/98/
+.cache/mesa_shader_cache/98/8e621a2d134f8100d34d125d6075b7272ec98f
+          3.247 100%  198,18kB/s    0:00:00            3.247 100%  198,18kB/s    0:00:00 (xfr#80, to-chk=216/418)
+.cache/mesa_shader_cache/98/c35dc825065a54f90ab71fd11e28759ef39580
+          2.526 100%  154,17kB/s    0:00:00            2.526 100%  154,17kB/s    0:00:00 (xfr#81, to-chk=215/418)
+.cache/mesa_shader_cache/9b/
+.cache/mesa_shader_cache/9b/bf247a23cba6660deb6d19f246fc3cb8b278d2
+          2.533 100%  154,60kB/s    0:00:00            2.533 100%  154,60kB/s    0:00:00 (xfr#82, to-chk=214/418)
+.cache/mesa_shader_cache/9d/
+.cache/mesa_shader_cache/9d/0fa2711250ec1e85e077997553ae6d07d7fa13
+          2.590 100%  148,78kB/s    0:00:00            2.590 100%  148,78kB/s    0:00:00 (xfr#83, to-chk=213/418)
+.cache/mesa_shader_cache/9f/
+.cache/mesa_shader_cache/9f/8a45cc51f4df68f7bf4517e207f36d2d89b78f
+          2.135 100%  122,64kB/s    0:00:00            2.135 100%  122,64kB/s    0:00:00 (xfr#84, to-chk=212/418)
+.cache/mesa_shader_cache/9f/ab352914cfbda5a63866e77f84ec994c68323f
+          2.240 100%  128,68kB/s    0:00:00            2.240 100%  128,68kB/s    0:00:00 (xfr#85, to-chk=211/418)
+.cache/mesa_shader_cache/a4/
+.cache/mesa_shader_cache/a4/ce19311d162587496b7d6a3ddb332bf3a87cce
+          2.586 100%  148,55kB/s    0:00:00            2.586 100%  148,55kB/s    0:00:00 (xfr#86, to-chk=210/418)
+.cache/mesa_shader_cache/a5/
+.cache/mesa_shader_cache/a5/f355d68dbb4941c8f4a05753ad791d5fcc9a89
+          1.905 100%  109,43kB/s    0:00:00            1.905 100%  109,43kB/s    0:00:00 (xfr#87, to-chk=209/418)
+.cache/mesa_shader_cache/a7/
+.cache/mesa_shader_cache/a7/e58169056de57fdba625c6c5d5a4249fdcfaf4
+          2.790 100%  160,27kB/s    0:00:00            2.790 100%  160,27kB/s    0:00:00 (xfr#88, to-chk=208/418)
+.cache/mesa_shader_cache/ad/
+.cache/mesa_shader_cache/ad/1f4eedec938172d57e4e18612f4216966c56a0
+          1.840 100%  105,70kB/s    0:00:00            1.840 100%  105,70kB/s    0:00:00 (xfr#89, to-chk=207/418)
+.cache/mesa_shader_cache/ae/
+.cache/mesa_shader_cache/ae/5157d459c39ba00266674843ab1b12d91a6a2f
+          1.421 100%   81,63kB/s    0:00:00            1.421 100%   81,63kB/s    0:00:00 (xfr#90, to-chk=206/418)
+.cache/mesa_shader_cache/b3/
+.cache/mesa_shader_cache/b3/4c048e37edcbff993ce3aa25361f2ee30e895e
+          2.477 100%  142,29kB/s    0:00:00            2.477 100%  142,29kB/s    0:00:00 (xfr#91, to-chk=205/418)
+.cache/mesa_shader_cache/b9/
+.cache/mesa_shader_cache/b9/70065b5c13d27f7df46ac1aaf37f3e4d74ee04
+          2.587 100%  148,61kB/s    0:00:00            2.587 100%  148,61kB/s    0:00:00 (xfr#92, to-chk=204/418)
+.cache/mesa_shader_cache/b9/df71c7d49ce5c4fd5e3d518851bfb39126e019
+          2.672 100%  153,49kB/s    0:00:00            2.672 100%  153,49kB/s    0:00:00 (xfr#93, to-chk=203/418)
+.cache/mesa_shader_cache/ba/
+.cache/mesa_shader_cache/ba/424ba55741f543a1769d89271288185654c3dd
+          2.673 100%  153,55kB/s    0:00:00            2.673 100%  153,55kB/s    0:00:00 (xfr#94, to-chk=202/418)
+.cache/mesa_shader_cache/ba/5680a6815bb7e0ba6db5a5ad46446eaedf7e64
+          4.404 100%  252,99kB/s    0:00:00            4.404 100%  252,99kB/s    0:00:00 (xfr#95, to-chk=201/418)
+.cache/mesa_shader_cache/c3/
+.cache/mesa_shader_cache/c3/b3120edb1754a7e5fcf4a9bd2f4fe1fff812bd
+          2.533 100%  145,51kB/s    0:00:00            2.533 100%  145,51kB/s    0:00:00 (xfr#96, to-chk=200/418)
+.cache/mesa_shader_cache/c5/
+.cache/mesa_shader_cache/c5/2d06408a4d5bf966b5637709b43f25bd95e2e9
+          1.497 100%   85,99kB/s    0:00:00            1.497 100%   85,99kB/s    0:00:00 (xfr#97, to-chk=199/418)
+.cache/mesa_shader_cache/c5/c6264538178eb5919b81e1ea1d8d56abb22809
+          1.627 100%   93,46kB/s    0:00:00            1.627 100%   93,46kB/s    0:00:00 (xfr#98, to-chk=198/418)
+.cache/mesa_shader_cache/d0/
+.cache/mesa_shader_cache/d0/f66b15d3c810416b887a5a236166cd18225046
+          2.795 100%  160,56kB/s    0:00:00            2.795 100%  160,56kB/s    0:00:00 (xfr#99, to-chk=197/418)
+.cache/mesa_shader_cache/d1/
+.cache/mesa_shader_cache/d1/784bb601d5e0f4fa1b17cf2a3697912d335778
+          2.648 100%  152,11kB/s    0:00:00            2.648 100%  152,11kB/s    0:00:00 (xfr#100, to-chk=196/418)
+.cache/mesa_shader_cache/d3/
+.cache/mesa_shader_cache/d3/2b6ee95110a0837ab821acb922b67b49c8f4fe
+          2.589 100%  148,72kB/s    0:00:00            2.589 100%  148,72kB/s    0:00:00 (xfr#101, to-chk=195/418)
+.cache/mesa_shader_cache/d4/
+.cache/mesa_shader_cache/d4/b45bef89f43250a248d6832d653e5e70905e96
+          2.739 100%  157,34kB/s    0:00:00            2.739 100%  157,34kB/s    0:00:00 (xfr#102, to-chk=194/418)
+.cache/mesa_shader_cache/d5/
+.cache/mesa_shader_cache/d5/293fb817e65d7cef35b7f1bb730e83333f1332
+          3.027 100%  173,89kB/s    0:00:00            3.027 100%  173,89kB/s    0:00:00 (xfr#103, to-chk=193/418)
+.cache/mesa_shader_cache/d7/
+.cache/mesa_shader_cache/d7/50707ae3014e44289ed38b68d825743d45f7a6
+          1.802 100%  103,52kB/s    0:00:00            1.802 100%  103,52kB/s    0:00:00 (xfr#104, to-chk=192/418)
+.cache/mesa_shader_cache/d7/5eb00003b64510b21d4947106392641bd522ff
+          2.528 100%  145,22kB/s    0:00:00            2.528 100%  145,22kB/s    0:00:00 (xfr#105, to-chk=191/418)
+.cache/mesa_shader_cache/de/
+.cache/mesa_shader_cache/de/d0a7bb8aba2cb71ded72ddbf0dec62c583db23
+          2.898 100%  166,48kB/s    0:00:00            2.898 100%  166,48kB/s    0:00:00 (xfr#106, to-chk=190/418)
+.cache/mesa_shader_cache/de/f100e1095e82ebad4047de80d769e617ceb3ed
+          2.832 100%  162,68kB/s    0:00:00            2.832 100%  162,68kB/s    0:00:00 (xfr#107, to-chk=189/418)
+.cache/mesa_shader_cache/df/
+.cache/mesa_shader_cache/df/7e84d8d3a486dc40d991bc81aa243464993179
+          2.586 100%  140,30kB/s    0:00:00            2.586 100%  140,30kB/s    0:00:00 (xfr#108, to-chk=188/418)
+.cache/mesa_shader_cache/eb/
+.cache/mesa_shader_cache/eb/72d855319235e3a2786b8f4d5abc8630f072ee
+          2.529 100%  137,21kB/s    0:00:00            2.529 100%  137,21kB/s    0:00:00 (xfr#109, to-chk=187/418)
+.cache/mesa_shader_cache/ec/
+.cache/mesa_shader_cache/ec/fb124114b823bcd13dc6540464c8ff3edcf08b
+          1.568 100%   85,07kB/s    0:00:00            1.568 100%   85,07kB/s    0:00:00 (xfr#110, to-chk=186/418)
+.cache/mesa_shader_cache/ee/
+.cache/mesa_shader_cache/ee/72b97bce6f6ce18965177ccdc64f5ea590c8ec
+          2.671 100%  144,91kB/s    0:00:00            2.671 100%  144,91kB/s    0:00:00 (xfr#111, to-chk=185/418)
+.cache/mesa_shader_cache/ee/a8726ba19d8bc2f0602adce938d8c3cf1062fb
+          1.544 100%   83,77kB/s    0:00:00            1.544 100%   83,77kB/s    0:00:00 (xfr#112, to-chk=184/418)
+.cache/mesa_shader_cache/ef/
+.cache/mesa_shader_cache/ef/9dde53bbb37c9a7a7282b405131c001e10443a
+          2.646 100%  143,55kB/s    0:00:00            2.646 100%  143,55kB/s    0:00:00 (xfr#113, to-chk=183/418)
+.cache/mesa_shader_cache/f4/
+.cache/mesa_shader_cache/f4/5fbfb1b96b0ea0016a8734dcebbc07727812f3
+          2.226 100%  120,77kB/s    0:00:00            2.226 100%  120,77kB/s    0:00:00 (xfr#114, to-chk=182/418)
+.cache/mesa_shader_cache/f8/
+.cache/mesa_shader_cache/f8/727bfa3ed3653603916f97031428378d28c394
+          2.226 100%  120,77kB/s    0:00:00            2.226 100%  120,77kB/s    0:00:00 (xfr#115, to-chk=181/418)
+.cache/mesa_shader_cache/ff/
+.cache/mesa_shader_cache/ff/b2d25e8d8eff2b49db36adf090ae5795f9ccae
+          2.769 100%  150,23kB/s    0:00:00            2.769 100%  150,23kB/s    0:00:00 (xfr#116, to-chk=180/418)
+.cache/tracker3/
+.cache/tracker3/files/
+.cache/tracker3/files/.meta.isrunning
+              0 100%    0,00kB/s    0:00:00 (xfr#117, to-chk=178/418)
+.cache/tracker3/files/first-index.txt
+              5 100%    0,27kB/s    0:00:00                5 100%    0,27kB/s    0:00:00 (xfr#118, to-chk=177/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Audio.db
+         32.768   2%    1,64MB/s    0:00:00        1.294.336 100%   53,67MB/s    0:00:00 (xfr#119, to-chk=176/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Audio.db-shm
+         32.768 100%    1,36MB/s    0:00:00           32.768 100%    1,36MB/s    0:00:00 (xfr#120, to-chk=175/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Audio.db-wal
+         32.768  66%    1,36MB/s    0:00:00           49.472 100%    2,05MB/s    0:00:00 (xfr#121, to-chk=174/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db
+         32.768   2%    1,36MB/s    0:00:00        1.417.216 100%   51,98MB/s    0:00:00 (xfr#122, to-chk=173/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db-shm
+         32.768 100%    1,20MB/s    0:00:00           32.768 100%    1,20MB/s    0:00:00 (xfr#123, to-chk=172/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db-wal
+         32.768   3%    1,20MB/s    0:00:00        1.001.192 100%   34,10MB/s    0:00:00 (xfr#124, to-chk=171/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db
+         32.768   2%    1,12MB/s    0:00:01        1.458.176 100%   46,35MB/s    0:00:00 (xfr#125, to-chk=170/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db-shm
+         32.768 100%    1,04MB/s    0:00:00           32.768 100%    1,04MB/s    0:00:00 (xfr#126, to-chk=169/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db-wal
+         32.768   1%    1,04MB/s    0:00:01        1.755.152 100%   49,23MB/s    0:00:00 (xfr#127, to-chk=168/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Pictures.db
+         32.768   2%  941,18kB/s    0:00:01        1.294.336 100%   34,29MB/s    0:00:00 (xfr#128, to-chk=167/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Pictures.db-shm
+         32.768 100%  888,89kB/s    0:00:00           32.768 100%  888,89kB/s    0:00:00 (xfr#129, to-chk=166/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Pictures.db-wal
+         32.768  66%  888,89kB/s    0:00:00           49.472 100%    1,31MB/s    0:00:00 (xfr#130, to-chk=165/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Software.db
+         32.768   2%  888,89kB/s    0:00:01        1.560.576 100%   38,16MB/s    0:00:00 (xfr#131, to-chk=164/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Software.db-shm
+         32.768 100%  820,51kB/s    0:00:00           32.768 100%  820,51kB/s    0:00:00 (xfr#132, to-chk=163/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Software.db-wal
+         32.768   2%  820,51kB/s    0:00:01        1.252.512 100%   29,13MB/s    0:00:00 (xfr#133, to-chk=162/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Video.db
+         32.768   2%  780,49kB/s    0:00:01        1.294.336 100%   28,71MB/s    0:00:00 (xfr#134, to-chk=161/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Video.db-shm
+         32.768 100%  727,27kB/s    0:00:00           32.768 100%  727,27kB/s    0:00:00 (xfr#135, to-chk=160/418)
+.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Video.db-wal
+         32.768  66%  727,27kB/s    0:00:00           49.472 100%    1,07MB/s    0:00:00 (xfr#136, to-chk=159/418)
+.cache/tracker3/files/last-crawl.txt
+             10 100%    0,22kB/s    0:00:00               10 100%    0,22kB/s    0:00:00 (xfr#137, to-chk=158/418)
+.cache/tracker3/files/locale-for-miner-apps.txt
+             11 100%    0,24kB/s    0:00:00               11 100%    0,24kB/s    0:00:00 (xfr#138, to-chk=157/418)
+.cache/tracker3/files/meta.db
+         32.768   1%  727,27kB/s    0:00:03        2.859.008 100%   55,64MB/s    0:00:00 (xfr#139, to-chk=156/418)
+.cache/tracker3/files/meta.db-shm
+         32.768 100%  653,06kB/s    0:00:00           32.768 100%  653,06kB/s    0:00:00 (xfr#140, to-chk=155/418)
+.cache/tracker3/files/meta.db-wal
+         32.768   4%  653,06kB/s    0:00:00          681.960 100%   13,01MB/s    0:00:00 (xfr#141, to-chk=154/418)
+.cache/tracker3/files/ontologies.gvdb
+         32.768  14%  640,00kB/s    0:00:00          225.654 100%    4,22MB/s    0:00:00 (xfr#142, to-chk=153/418)
+.cache/tracker3/files/errors/
+.cache/ubuntu-report/
+.cache/ubuntu-report/pending
+          1.254 100%   24,01kB/s    0:00:00            1.254 100%   24,01kB/s    0:00:00 (xfr#143, to-chk=151/418)
+.cache/update-manager-core/
+.cache/update-manager-core/meta-release-lts
+          5.623 100%  107,67kB/s    0:00:00            5.623 100%  107,67kB/s    0:00:00 (xfr#144, to-chk=150/418)
+.config/
+.config/.gsd-keyboard.settings-ported
+              0 100%    0,00kB/s    0:00:00 (xfr#145, to-chk=149/418)
+.config/gnome-initial-setup-done
+              3 100%    0,06kB/s    0:00:00                3 100%    0,06kB/s    0:00:00 (xfr#146, to-chk=148/418)
+.config/user-dirs.dirs
+            633 100%   12,12kB/s    0:00:00              633 100%   12,12kB/s    0:00:00 (xfr#147, to-chk=147/418)
+.config/user-dirs.locale
+              5 100%    0,10kB/s    0:00:00                5 100%    0,10kB/s    0:00:00 (xfr#148, to-chk=146/418)
+.config/dconf/
+.config/dconf/user
+          3.526 100%   67,52kB/s    0:00:00            3.526 100%   67,52kB/s    0:00:00 (xfr#149, to-chk=135/418)
+.config/evolution/
+.config/evolution/sources/
+.config/evolution/sources/system-proxy.source
+          1.033 100%   19,78kB/s    0:00:00            1.033 100%   19,78kB/s    0:00:00 (xfr#150, to-chk=133/418)
+.config/gnome-session/
+.config/gnome-session/saved-session/
+.config/goa-1.0/
+.config/gtk-3.0/
+.config/gtk-3.0/bookmarks
+            132 100%    2,53kB/s    0:00:00              132 100%    2,53kB/s    0:00:00 (xfr#151, to-chk=131/418)
+.config/ibus/
+.config/ibus/bus/
+.config/ibus/bus/7c844639bf9b4a40834a1311cc7abd7c-unix-0
+            378 100%    7,24kB/s    0:00:00              378 100%    7,24kB/s    0:00:00 (xfr#152, to-chk=129/418)
+.config/ibus/bus/7c844639bf9b4a40834a1311cc7abd7c-unix-wayland-0
+            378 100%    7,24kB/s    0:00:00              378 100%    7,24kB/s    0:00:00 (xfr#153, to-chk=128/418)
+.config/mc/
+.config/mc/ini
+          3.490 100%   66,83kB/s    0:00:00            3.490 100%   66,83kB/s    0:00:00 (xfr#154, to-chk=127/418)
+.config/mc/panels.ini
+              0 100%    0,00kB/s    0:00:00 (xfr#155, to-chk=126/418)
+.config/nautilus/
+.config/pulse/
+.config/pulse/7c844639bf9b4a40834a1311cc7abd7c-card-database.tdb
+         32.768  72%  627,45kB/s    0:00:00           45.056 100%  862,75kB/s    0:00:00 (xfr#156, to-chk=125/418)
+.config/pulse/7c844639bf9b4a40834a1311cc7abd7c-default-sink
+              1 100%    0,02kB/s    0:00:00                1 100%    0,02kB/s    0:00:00 (xfr#157, to-chk=124/418)
+.config/pulse/7c844639bf9b4a40834a1311cc7abd7c-default-source
+              1 100%    0,02kB/s    0:00:00                1 100%    0,02kB/s    0:00:00 (xfr#158, to-chk=123/418)
+.config/pulse/7c844639bf9b4a40834a1311cc7abd7c-device-volumes.tdb
+         12.288 100%  235,29kB/s    0:00:00           12.288 100%  235,29kB/s    0:00:00 (xfr#159, to-chk=122/418)
+.config/pulse/7c844639bf9b4a40834a1311cc7abd7c-stream-volumes.tdb
+         12.288 100%  235,29kB/s    0:00:00           12.288 100%  235,29kB/s    0:00:00 (xfr#160, to-chk=121/418)
+.config/pulse/cookie
+            256 100%    4,90kB/s    0:00:00              256 100%    4,90kB/s    0:00:00 (xfr#161, to-chk=120/418)
+.config/update-notifier/
+.local/
+.local/share/
+.local/share/recently-used.xbel
+            218 100%    4,17kB/s    0:00:00              218 100%    4,17kB/s    0:00:00 (xfr#162, to-chk=118/418)
+.local/share/session_migration-ubuntu
+            184 100%    3,52kB/s    0:00:00              184 100%    3,52kB/s    0:00:00 (xfr#163, to-chk=117/418)
+.local/share/applications/
+.local/share/evolution/
+.local/share/evolution/addressbook/
+.local/share/evolution/addressbook/system/
+.local/share/evolution/addressbook/system/contacts.db
+         32.768  38%  615,38kB/s    0:00:00           86.016 100%    1,58MB/s    0:00:00 (xfr#164, to-chk=96/418)
+.local/share/evolution/addressbook/system/photos/
+.local/share/evolution/addressbook/trash/
+.local/share/evolution/calendar/
+.local/share/evolution/calendar/system/
+.local/share/evolution/calendar/trash/
+.local/share/evolution/mail/
+.local/share/evolution/mail/trash/
+.local/share/evolution/memos/
+.local/share/evolution/memos/trash/
+.local/share/evolution/tasks/
+.local/share/evolution/tasks/system/
+.local/share/evolution/tasks/system/tasks.ics
+            173 100%    3,25kB/s    0:00:00              173 100%    3,25kB/s    0:00:00 (xfr#165, to-chk=88/418)
+.local/share/evolution/tasks/trash/
+.local/share/flatpak/
+.local/share/flatpak/db/
+.local/share/gnome-settings-daemon/
+.local/share/gnome-settings-daemon/input-sources-converted
+              0 100%    0,00kB/s    0:00:00 (xfr#166, to-chk=86/418)
+.local/share/gnome-shell/
+.local/share/gnome-shell/application_state
+            181 100%    3,40kB/s    0:00:00              181 100%    3,40kB/s    0:00:00 (xfr#167, to-chk=85/418)
+.local/share/gnome-shell/gnome-overrides-migrated
+              0 100%    0,00kB/s    0:00:00 (xfr#168, to-chk=84/418)
+.local/share/gnome-shell/notifications
+            607 100%   11,40kB/s    0:00:00              607 100%   11,40kB/s    0:00:00 (xfr#169, to-chk=83/418)
+.local/share/gvfs-metadata/
+.local/share/gvfs-metadata/home
+            112 100%    2,10kB/s    0:00:00              112 100%    2,10kB/s    0:00:00 (xfr#170, to-chk=82/418)
+.local/share/gvfs-metadata/home-d144e2aa.log
+         32.768 100%  615,38kB/s    0:00:00           32.768 100%  615,38kB/s    0:00:00 (xfr#171, to-chk=81/418)
+.local/share/gvfs-metadata/root
+             64 100%    1,20kB/s    0:00:00               64 100%    1,20kB/s    0:00:00 (xfr#172, to-chk=80/418)
+.local/share/gvfs-metadata/root-6b6bfd80.log
+         32.768 100%  603,77kB/s    0:00:00           32.768 100%  603,77kB/s    0:00:00 (xfr#173, to-chk=79/418)
+.local/share/ibus-table/
+.local/share/icc/
+.local/share/keyrings/
+.local/share/keyrings/login.keyring
+            105 100%    1,93kB/s    0:00:00              105 100%    1,93kB/s    0:00:00 (xfr#174, to-chk=78/418)
+.local/share/keyrings/user.keystore
+            207 100%    3,81kB/s    0:00:00              207 100%    3,81kB/s    0:00:00 (xfr#175, to-chk=77/418)
+.local/share/mc/
+.local/share/mc/history
+            641 100%   11,81kB/s    0:00:00              641 100%   11,81kB/s    0:00:00 (xfr#176, to-chk=76/418)
+.local/share/nano/
+.local/share/nano/search_history
+              6 100%    0,11kB/s    0:00:00                6 100%    0,11kB/s    0:00:00 (xfr#177, to-chk=75/418)
+.local/share/nautilus/
+.local/share/nautilus/tracker2-migration-complete
+              0 100%    0,00kB/s    0:00:00 (xfr#178, to-chk=74/418)
+.local/share/nautilus/tags/
+.local/share/nautilus/tags/meta.db
+         32.768  10%  603,77kB/s    0:00:00          303.104 100%    5,45MB/s    0:00:00 (xfr#179, to-chk=72/418)
+.local/share/nautilus/tags/ontologies.gvdb
+         23.251 100%  428,42kB/s    0:00:00           23.251 100%  428,42kB/s    0:00:00 (xfr#180, to-chk=71/418)
+.local/share/sounds/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Public/
+Templates/
+Videos/
+http1/
+http1/index.html
+             15 100%    0,27kB/s    0:00:00               15 100%    0,27kB/s    0:00:00 (xfr#181, to-chk=70/418)
+http2/
+http2/index.html
+             15 100%    0,27kB/s    0:00:00               15 100%    0,27kB/s    0:00:00 (xfr#182, to-chk=69/418)
+http3/
+http3/index.html
+             14 100%    0,25kB/s    0:00:00               14 100%    0,25kB/s    0:00:00 (xfr#183, to-chk=68/418)
+myscript/
+myscript/nginx.sh
+            108 100%    1,95kB/s    0:00:00              108 100%    1,95kB/s    0:00:00 (xfr#184, to-chk=67/418)
+myscript/nul
+              0 100%    0,00kB/s    0:00:00 (xfr#185, to-chk=66/418)
+myscript/script
+             31 100%    0,56kB/s    0:00:00               31 100%    0,56kB/s    0:00:00 (xfr#186, to-chk=65/418)
+script/
+script/copyhome
+             44 100%    0,80kB/s    0:00:00               44 100%    0,80kB/s    0:00:00 (xfr#187, to-chk=64/418)
+snap/
+snap/snapd-desktop-integration/
+snap/snapd-desktop-integration/current -> 83
+snap/snapd-desktop-integration/83/
+snap/snapd-desktop-integration/83/.last_revision
+             30 100%    0,54kB/s    0:00:00               30 100%    0,54kB/s    0:00:00 (xfr#188, to-chk=59/418)
+snap/snapd-desktop-integration/83/.themes -> /snap/snapd-desktop-integration/83/data-dir/themes
+snap/snapd-desktop-integration/83/.config/
+snap/snapd-desktop-integration/83/.config/user-dirs.dirs
+            673 100%   12,17kB/s    0:00:00              673 100%   12,17kB/s    0:00:00 (xfr#189, to-chk=55/418)
+snap/snapd-desktop-integration/83/.config/user-dirs.dirs.md5sum
+             36 100%    0,65kB/s    0:00:00               36 100%    0,65kB/s    0:00:00 (xfr#190, to-chk=54/418)
+snap/snapd-desktop-integration/83/.config/user-dirs.locale
+              5 100%    0,09kB/s    0:00:00                5 100%    0,09kB/s    0:00:00 (xfr#191, to-chk=53/418)
+snap/snapd-desktop-integration/83/.config/user-dirs.locale.md5sum
+             36 100%    0,65kB/s    0:00:00               36 100%    0,65kB/s    0:00:00 (xfr#192, to-chk=52/418)
+snap/snapd-desktop-integration/83/.config/dconf/
+snap/snapd-desktop-integration/83/.config/dconf/user -> /home/serg/.config/dconf/user
+snap/snapd-desktop-integration/83/.config/fontconfig/
+snap/snapd-desktop-integration/83/.config/fontconfig/fonts.conf
+            407 100%    7,36kB/s    0:00:00              407 100%    7,36kB/s    0:00:00 (xfr#193, to-chk=45/418)
+snap/snapd-desktop-integration/83/.config/gtk-2.0/
+snap/snapd-desktop-integration/83/.config/gtk-2.0/gtkfilechooser.ini -> /home/serg/.config/gtk-2.0/gtkfilechooser.ini
+snap/snapd-desktop-integration/83/.config/gtk-3.0/
+snap/snapd-desktop-integration/83/.config/gtk-3.0/bookmarks -> /home/serg/.config/gtk-3.0/bookmarks
+snap/snapd-desktop-integration/83/.config/gtk-3.0/gtk.css -> /home/serg/.config/gtk-3.0/gtk.css
+snap/snapd-desktop-integration/83/.config/gtk-3.0/settings.ini -> /home/serg/.config/gtk-3.0/settings.ini
+snap/snapd-desktop-integration/83/.config/ibus/
+snap/snapd-desktop-integration/83/.config/ibus/bus -> /home/serg/.config/ibus/bus
+snap/snapd-desktop-integration/83/.local/
+snap/snapd-desktop-integration/83/.local/share/
+snap/snapd-desktop-integration/83/.local/share/themes -> /snap/snapd-desktop-integration/83/data-dir/themes
+snap/snapd-desktop-integration/83/.local/share/glib-2.0/
+snap/snapd-desktop-integration/83/.local/share/glib-2.0/schemas/
+snap/snapd-desktop-integration/83/.local/share/icons/
+snap/snapd-desktop-integration/common/
+snap/snapd-desktop-integration/common/.cache/
+snap/snapd-desktop-integration/common/.cache/gdk-pixbuf-loaders.cache
+          3.886 100%   70,28kB/s    0:00:00            3.886 100%   70,28kB/s    0:00:00 (xfr#194, to-chk=33/418)
+snap/snapd-desktop-integration/common/.cache/fontconfig/
+snap/snapd-desktop-integration/common/.cache/fontconfig/636e39dd-4582-4fa9-ae56-e06fa08675a2-le64.cache-7
+          2.456 100%   44,42kB/s    0:00:00            2.456 100%   44,42kB/s    0:00:00 (xfr#195, to-chk=29/418)
+snap/snapd-desktop-integration/common/.cache/fontconfig/CACHEDIR.TAG
+            200 100%    3,62kB/s    0:00:00              200 100%    3,62kB/s    0:00:00 (xfr#196, to-chk=28/418)
+snap/snapd-desktop-integration/common/.cache/fontconfig/a932910a7941d4702dae198ab66ce8a9-le64.cache-7
+            240 100%    4,34kB/s    0:00:00              240 100%    4,34kB/s    0:00:00 (xfr#197, to-chk=27/418)
+snap/snapd-desktop-integration/common/.cache/fontconfig/ce869c62e014f60b4dccc4952082d27a-le64.cache-7
+          2.856 100%   51,65kB/s    0:00:00            2.856 100%   51,65kB/s    0:00:00 (xfr#198, to-chk=26/418)
+snap/snapd-desktop-integration/common/.cache/fontconfig/d310bed8e4ff233d7c48af0c90bf88da-le64.cache-7
+            344 100%    6,11kB/s    0:00:00              344 100%    6,11kB/s    0:00:00 (xfr#199, to-chk=25/418)
+snap/snapd-desktop-integration/common/.cache/fontconfig/f51ce705-421a-4fbb-b910-a07fa59e92e2-le64.cache-7
+          8.904 100%  158,10kB/s    0:00:00            8.904 100%  158,10kB/s    0:00:00 (xfr#200, to-chk=24/418)
+snap/snapd-desktop-integration/common/.cache/fontconfig/f8076ffdb0e322cb73b5e0e8d84700fa-le64.cache-7
+         15.904 100%  282,39kB/s    0:00:00           15.904 100%  282,39kB/s    0:00:00 (xfr#201, to-chk=23/418)
+snap/snapd-desktop-integration/common/.cache/gio-modules/
+snap/snapd-desktop-integration/common/.cache/gio-modules/giomodule.cache
+            196 100%    3,48kB/s    0:00:00              196 100%    3,48kB/s    0:00:00 (xfr#202, to-chk=22/418)
+snap/snapd-desktop-integration/common/.cache/gio-modules/libdconfsettings.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+snap/snapd-desktop-integration/common/.cache/gio-modules/libgioenvironmentproxy.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libgioenvironmentproxy.so
+snap/snapd-desktop-integration/common/.cache/gio-modules/libgiognomeproxy.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libgiognomeproxy.so
+snap/snapd-desktop-integration/common/.cache/gio-modules/libgiognutls.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libgiognutls.so
+snap/snapd-desktop-integration/common/.cache/gio-modules/libgiolibproxy.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so
+snap/snapd-desktop-integration/common/.cache/immodules/
+snap/snapd-desktop-integration/common/.cache/immodules/im-am-et.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-am-et.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-broadway.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-broadway.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-cedilla.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-cedilla.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-cyrillic-translit.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-cyrillic-translit.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-fcitx.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-ibus.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-inuktitut.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-inuktitut.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-ipa.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ipa.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-multipress.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-multipress.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-thai.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-thai.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-ti-er.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ti-er.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-ti-et.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ti-et.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-viqr.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-viqr.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-wayland.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-waylandgtk.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-waylandgtk.so
+snap/snapd-desktop-integration/common/.cache/immodules/im-xim.so -> /snap/snapd-desktop-integration/83/gnome-platform/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-xim.so
+snap/snapd-desktop-integration/common/.cache/immodules/immodules.cache
+          4.060 100%   72,09kB/s    0:00:00            4.060 100%   72,09kB/s    0:00:00 (xfr#203, to-chk=0/418)
